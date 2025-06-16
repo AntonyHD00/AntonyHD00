@@ -101,12 +101,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
-
+<img align="right" height="150" src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdwMDluN2xwcGwwd2h1bHJrOWxjdXp4ejhiaWlhYmMwYzVua3EycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif](https://i.giphy.com/JMJHY7w9GW3rW.gif)"  />
 
 ###
 
