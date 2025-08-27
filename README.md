@@ -65,7 +65,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" alt="firebase logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="30" alt="illustrator logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/ChatGPT_logo.svg" height="30" alt="ChatGPT logo" />
+
 
 
   
