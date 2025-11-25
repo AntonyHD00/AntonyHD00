@@ -3,8 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonyhd00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyhd00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  ## 📊 Estadísticas de GitHub
+
+  [![antonyhd00's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonyhd00&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=ff79c6&title_color=ff79c6)](https://github.com/antonyhd00)
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonyhd00&theme=gotham&hide_border=true&background=00000000&side_bgr=00000000)](https://git.io/streak-stats)
+
+  ## 🌐 Lenguajes Principales
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonyhd00&layout=compact&theme=gotham&hide_border=true&bg_color=00000000&langs_count=6&title_color=ff79c6)](https://github.com/antonyhd00)
+    
 </div>
 
 ###
