@@ -4,7 +4,22 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonyhd00&theme=gotham&hide_border=true&background=00000000&side_bgr=00000000)](https://git.io/streak-stats)
+
+ <div align="center">
+    
+  ## 📈 Rendimiento General
+    
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonyhd00&show_icons=true&theme=solarized_dark&hide_border=true&count_private=true)](https://github.com/antonyhd00)
+
+  ## 🌐 Lenguajes Más Usados
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonyhd00&layout=compact&theme=solarized_dark&hide_border=true&langs_count=6)](https://github.com/antonyhd00)
+
+  ## 📅 Contribuciones Diarias
+    
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonyhd00&theme=solarized_dark)](https://git.io/streak-stats)
+    
+</div>
     
 </div>
 
