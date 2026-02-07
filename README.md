@@ -102,12 +102,13 @@
 </div>
 
 <div align="center">
-    
-  ## 🐍 Mi Recorrido en GitHub
-    
-  <img src="[https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg](https://raw.githubusercontent.com/AntonyHD00/AntonyHD00_Dashboards/main/banner.svg)" alt="GitHub Snake" />
-    
+
+## 🐍 Mi Recorrido en GitHub
+
+<img src="https://raw.githubusercontent.com/AntonyHD00/AntonyHD00_Dashboards/main/banner.svg" alt="GitHub Banner" />
+
 </div>
+
 ###
 
 <br clear="both">
